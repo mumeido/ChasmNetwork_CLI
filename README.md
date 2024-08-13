@@ -15,10 +15,6 @@ To learn more about Chasm Network, go here. [here](https://network-docs.chasm.ne
 sudo apt update && sudo apt upgrade -y
 sudo apt install cmake pkg-config libssl-dev build-essential -y
 ```
-```
-
-
-
 ### Download and Install Homebrew
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
