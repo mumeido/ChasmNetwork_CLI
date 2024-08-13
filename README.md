@@ -23,7 +23,7 @@ sudo apt install cmake pkg-config libssl-dev build-essential -y
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-# Wait until the installation finish
+Wait until the installation finish
 
 If u facing this issue : 
 ![1](https://raw.githubusercontent.com/mumeido/ChasmNetwork_CLI/main/Issue_1.PNG)
