@@ -15,22 +15,15 @@ To learn more about Chasm Network, go here. [here](https://network-docs.chasm.ne
 sudo apt update && sudo apt upgrade -y
 sudo apt install cmake pkg-config libssl-dev build-essential -y
 ```
-
-### Rust and Cargo Installation
-```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-source $HOME/.cargo/env
-
-## press 1
 ```
 
-## Step 2: Open a terminal and run the following command to start the Homebrew installation:
+
 
 ### Download and Install Homebrew
-```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-### Wait until the installation finish
+# Wait until the installation finish
 
 If u facing this issue : 
 ![1](https://raw.githubusercontent.com/mumeido/ChasmNetwork_CLI/main/Issue_1.PNG)
